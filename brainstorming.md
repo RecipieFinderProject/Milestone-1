@@ -1,3 +1,11 @@
+**ParkPal (Travel & Outdoors):**
+Description:
+A park navigation app that helps users discover and navigate national parks, trails, and outdoor activities. It includes maps, activity recommendations, and real-time updates on weather or trail conditions.
+
+**EcoScan (Sustainability):**
+Description:
+An app that scans product barcodes or labels to provide sustainability ratings and suggest eco-friendly alternatives. Helps users make informed choices when shopping.
+
 **SkillSwap (Social & Education):**
 Description:
 A platform for users to exchange skills in their local area or virtually. For example, someone could offer piano lessons in exchange for Spanish tutoring.
