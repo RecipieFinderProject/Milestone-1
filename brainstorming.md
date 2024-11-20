@@ -74,17 +74,30 @@ A task management app awards users for completing tasks with points. You can ear
 We chose 
 **Recipe Finder:**
 Allow users to enter ingredients they have on hand to generate custom recipes.
-1. **Mobile:** 
-    *
+1. **Mobile:** How uniquely mobile is the product experience?
 
-2. **Story:**
-    * 
+   *Highly mobile; allows real-time ingredient input via smartphone cameras and provides instant recipe suggestions.
+More than a website due to features like scanning, notifications, and on-the-go accessibility.
 
-3. **Market:**
-    * 
+2. **Story:** How compelling is the story around this app once completed?
 
-4. **Habit:**
-    *
+   *Clear value in reducing food waste and simplifying meal planning.
+Likely to resonate with busy individuals, students, and families.
+Promotes sustainability and convenience.
 
-5. **Scope:**
-    * 
+3. **Market:** How large or unique is the market for this app?
+
+   *Large market, including home cooks, students, and families.
+Provides significant value to niche groups like budget-conscious users and sustainability advocates.
+Audience is broad but well-defined.
+
+4. **Habit:** How habit-forming or addictive is this app?
+
+   *Moderate usage frequency, primarily during meal planning or grocery shopping.
+Users consume recipes but interact by inputting ingredients, adding a slight creation aspect.
+
+5. **Scope:** How well-formed is the scope for this app?
+
+   *Medium complexity; AI-based ingredient recognition is manageable with basic functionality.
+A stripped-down version with manual input and basic recipe matching is viable and useful.
+Clearly defined product focus on reducing food waste and making meal planning easier.
