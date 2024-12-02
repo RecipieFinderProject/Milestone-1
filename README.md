@@ -5,19 +5,17 @@
 Submitted by:
 - John Bradfield
 - Rene Soria
-- Cheridi Stevens
+- Charidi Stevens
 
 Time spent: 5 hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **short description of your app**
+This document provides an overview, project spec, and wireframes for our team's capstone project: **RecipeFinder is an app that finds recipes for ingredients in your home!**
 
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
+If we had to describe this milestone in three (3) emojis, they would be: **🥦🥪🍤**
 
 ## Milestone Requirements
-
-<!-- Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
@@ -34,15 +32,6 @@ The following REQUIRED files are included:
   - [X] App Overview: Description and evaluation
   - [X] App Spec: User features, Chosen API(s), User Interactions
   - [X] Wireframe image(s)
-
-The following BONUS features are implemented:
-
-- [ ] Added digital wireframe/mockup image(s)
-- [ ] Added a Video/GIF of an interactive prototype
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve your submission!
 
 ## Notes
 
