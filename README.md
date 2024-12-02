@@ -11,7 +11,7 @@ Time spent: 5 hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: **RecipeFinder is an app that finds recipes for ingredients in your home!**
+This document provides an overview, project spec, and wireframes for our team's capstone project: **An app where users input their available ingredients, and it suggests recipes they can make. It helps reduce food waste and makes meal planning effortless. Perfect for quick, creative cooking ideas.**
 
 If we had to describe this milestone in three (3) emojis, they would be: **🥦🥪🍤**
 
