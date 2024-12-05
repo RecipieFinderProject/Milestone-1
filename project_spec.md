@@ -35,16 +35,16 @@ An app where users input their available ingredients, and it suggests recipes th
 
 Required Features:
 
-- Ingredient Input Box
-- Recipe Matching
-- Filters
-- Favorites
+[X] Ingredient Input Box
+[X] Recipe Matching
+[] Filters
+[] Favorites
 
 Stretch Features:
 
-- Profiles
-- Recipe Sharing
-- Generated Shopping List
+[] Profiles
+[] Recipe Sharing
+[] Generated Shopping List
 
 ### 2. Chosen API(s)
 
